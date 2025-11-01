@@ -1,3 +1,3 @@
 # Porfolio_Project101
 Portfolio Project 
-A fast and responsive personal portfolio designed to highlight my journey as a future web developer, featuring my projects, skills, and resume in a modern interface.
+Hi! I'm Hannah, and welcome to my portfolio! This project shows my skills, sample projects, and resume as I start my journey as an IT professional. The site is designed using HTML, CSS, and JavaScript with a clean and modern look.
